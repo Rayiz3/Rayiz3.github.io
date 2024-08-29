@@ -1,0 +1,45 @@
+# site settings
+title: Blog
+subtitle: by Doun
+email: jusmint3@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: 
+state: 
+zip_code: 55555
+country: Korea, Republic of
+phone: (+82) 010-4540-8799
+lang: kr
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/Rayiz3
+  GitLab:
+  Google-Plus:
+  Instagram: https://www.instagram.com/dawn_2_001/
+  LinkedIn: https://www.linkedin.com/in/%EB%8F%84%EC%9A%B4-%EC%9D%B4-b22aaa27b/
+  Twitter:
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
