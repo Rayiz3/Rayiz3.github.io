@@ -2,14 +2,14 @@
 title: Blog
 subtitle: by Doun
 email: jusmint3@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: 블로그 방문을 환영합니다.<br />
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
+street_address: 대전광역시 유성구 대학로 291
 city: 
 state: 
-zip_code: 55555
+zip_code: 34141
 country: Korea, Republic of
 phone: (+82) 010-4540-8799
 lang: kr

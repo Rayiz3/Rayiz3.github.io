@@ -20,6 +20,10 @@ Simply fork this repository and start editing the `_config.yml` file!
 * Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
 * Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
 * Set **featured images** in front matter.
+* post : _posts/*
+* page : _pages/*
+* layout : _layouts/*
+* style : _sass/*
 
 # Credits
 
