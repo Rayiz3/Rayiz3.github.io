@@ -1,6 +1,6 @@
 # site settings
-title: Blog
-subtitle: by Doun
+title: 창작공간
+subtitle: Doun's creativity room
 email: jusmint3@gmail.com
 description: 블로그 방문을 환영합니다.<br />
 baseurl: "" # the subpath of your site, e.g. /blog
