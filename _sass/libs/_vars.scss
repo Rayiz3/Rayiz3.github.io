@@ -22,19 +22,26 @@
 	$font: (
 		family:				('Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		600,
+		weight-thin:        100,
+		weight-extraLight:  200,
+		weight-light:		300,
+		weight-normal:      400,
+		weight-medium:      500,
+		weight-semiBold:    600,
+		weight-bold:        700,
+		weight-extraBold:   800,
+		weight-black:       900,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.2em
 	);
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
+		bg:					#ffffff,
+		bg-alt:				#f5f5f5,
+		fg:					#000000,
+		fg-bold:			#000000,
+		fg-light:			#555555,
 		border:				rgba(221, 221, 255, 0.336),
 		border-bg:			rgba(212,212,255,0.035),
 		highlight:			#9bf1ff,
