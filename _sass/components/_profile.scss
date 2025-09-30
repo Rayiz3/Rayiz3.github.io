@@ -1,0 +1,42 @@
+/* profile */
+    #profile {
+        .inner {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+        
+        p {
+            margin-bottom: 24px;
+
+            strong {
+                font-size: 1.8em;
+                font-weight: _font(weight-bold);
+                margin-right: 0.6em;
+            }
+        
+            span {
+                font-size: 1em;
+                font-weight: _font(weight-extraLight);
+            }
+        }
+
+        .items {
+            li {
+                font-size: 1em;
+                font-weight: _font(weight-medium);
+                margin-bottom: 12px;
+            }
+
+            .sub {
+                font-size: 0.75em;
+                font-weight: _font(weight-extraLight);
+                margin-top: -0.25em;
+            }
+        }
+
+        img {
+            width: 30vw;
+            aspect-ratio: 1 / 1;
+        }
+    }
