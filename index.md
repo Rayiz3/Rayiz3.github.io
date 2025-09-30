@@ -1,11 +1,14 @@
 ---
 layout: home
 title: Home
-landing-title: '안녕하세요'
+landing-title: '환영합니다 :D'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+- 이도운 (Doun Lee)
+- BSS 14th (2016 - 2019)
+- KAIST SoC & ID 19 (2019 - 2025)
+- <span class="highlight">중요한 부분</span>은 이렇게 표시할 수 있어요.

@@ -21,7 +21,8 @@
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#profile" class="button next scrolly">Who am I?</a></li>
+                    <li><a href="#tiles" class="button next scrolly">둘러보기</a></li>
                 </ul>
             </div>
         </div>
@@ -30,21 +31,23 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
+        <!-- Profile -->
+        <section id="profile">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>Who am I?</h2>
                 </header>
                 <p>{{ content }}</p>
+                <!--
                 <ul class="actions">
                     <li><a href="landing.html" class="button next">Get Started</a></li>
                 </ul>
+                -->
             </div>
         </section>
+
+        <!-- Tiles -->
+        {% include tiles.html %}
 
     </div>
 
