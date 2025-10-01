@@ -1,9 +1,10 @@
 ---
-title: Landing
+title: Web
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: '웹. 앱. 사각형 창구에서 만든 여러가지 세계입니다.'
 image: assets/images/pic07.jpg
 nav-menu: true
+order : 2
 ---
 
 <!-- Main -->
