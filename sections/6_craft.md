@@ -21,7 +21,7 @@ style: style6
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/craft/02-dawn-2-drawing.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,13 +32,13 @@ style: style6
 				</header>
 				<p>일상에 대해 이야기하는 인스타툰을 그리고 있습니다. 비정기 연재!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">더 보기</a></li>
+					<li><a href="{{ "post/craft/02-dawn-2-drawing.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -49,7 +49,7 @@ style: style6
 				</header>
 				<p>KAIST 구성원들을 위한 전시 공간인 gallery Ori에 한 달간 전시된 작품입니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">더보기</a></li>
+					<li><a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="button">더보기</a></li>
 				</ul>
 			</div>
 		</div>

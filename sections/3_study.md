@@ -24,7 +24,7 @@ style: style3
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/study/04-simframepack.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -39,13 +39,13 @@ style: style3
 				</div>
 				<p>Frampack 기반의 T2V 물리 시뮬레이션 모델인 SimFrampack의 연구를 보조하고, 모델의 정성적 성능을 분석해보았습니다. 2025년 CVML Lab의 여름 개별연구 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">더 보기</a></li>
+					<li><a href="{{ "post/study/04-simframepack.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -60,13 +60,13 @@ style: style3
 				</div>
 				<p>CVPR 2023에서 발표된 논문인 DiffusionRig를 분석하고 개인화된 데이터를 기반으로 하여 finetuning 학습을 수행하였습니다. 2024년 CVML Lab의 가을 개별연구 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{{ "post/study/04-diffusionrig.html" | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/study/02-videoldms.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -80,13 +80,13 @@ style: style3
 				</div>
 				<p>CVPR 2023에서 NVIDIA가 발표한 T2V 모델인 VideoLDMs를 분석하고 추론 및 학습 코드를 구현하는 작업을 수행하였습니다. NCSOFT의 여름 인턴십 직무 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="{{ "post/study/02-videoldms.html" | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="{{ "post/study/01-rosetta-stone.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -102,7 +102,7 @@ style: style3
 				<p>#open-source  #RL</p>
 				<p>온라인 카드게임 '하스스톤'의 강화 학습 환경 구현을 위해 핵심 카드의 효과와 로직을 개발하고 최적화를 진행하였습니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">더 보기</a></li>
+					<li><a href="{{ "post/study/01-rosetta-stone.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
