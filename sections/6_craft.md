@@ -5,6 +5,7 @@ description: '온전히 상상의 나래를 펼치고, 다른 사람과 나누�
 image: assets/images/pic07.jpg
 nav-menu: true
 order : 6
+style: style6
 ---
 
 <!-- Main -->
@@ -13,10 +14,7 @@ order : 6
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>그림, 음악, 영상 등 여러 가지 범주의 창작 활동을 모아놓았습니다.</p>
 	</div>
 </section>
 
@@ -29,11 +27,12 @@ order : 6
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Dawn_2_Drawing</h3>
+					<p>2022.11 ~ </p>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>일상에 대해 이야기하는 인스타툰을 그리고 있습니다. 비정기 연재!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
@@ -45,27 +44,12 @@ order : 6
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>시퍼런 봄</h3>
+					<p>2025.07 ~ 2025.07</p>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>KAIST 구성원들을 위한 전시 공간인 gallery Ori에 한 달간 전시된 작품입니다.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">더보기</a></li>
 				</ul>
 			</div>
 		</div>
@@ -73,6 +57,7 @@ order : 6
 </section>
 
 <!-- Three -->
+<!-- 
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -84,5 +69,5 @@ order : 6
 		</ul>
 	</div>
 </section>
-
+ -->
 </div>

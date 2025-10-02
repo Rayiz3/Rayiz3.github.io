@@ -5,6 +5,7 @@ description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
 order : 5
+style: style5
 ---
 
 <!-- Main -->

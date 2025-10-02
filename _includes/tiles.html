@@ -10,7 +10,11 @@
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
     <header class="major">
+      {% if forloop.index == 5 %}
+      <h3>{{ tile.title }}</h3>
+      {% else %}
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+      {% endif %}
       <p>{{ tile.description }}</p>
     </header>
   </article>

@@ -58,6 +58,19 @@
 					max-width: 100%;
 					width: _size(inner);
 				}
+
+				.tag {
+					color: _palette(fg-light);
+					font-size: 0.8em;
+					font-weight: _font(weight-light);
+					margin: -2em 0 1em;
+					> p {
+						margin: 0 0 0.5em;
+					}
+					> span {
+						margin-right: 0.8em;
+					}
+				}
 			}
 
 			&:nth-child(2n) {
