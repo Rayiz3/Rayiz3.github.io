@@ -8,6 +8,17 @@
 
 img {
     max-width: 100%;
+
+	&.post {
+		display: block;
+		width: 60%;
+		height: auto;
+		margin: 0 auto;
+	}
+}
+
+a > img {
+	filter: opacity(0.8);
 }
 
 .image {

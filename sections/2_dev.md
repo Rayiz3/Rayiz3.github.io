@@ -130,7 +130,7 @@ style: style2
 	</section>
 	<section>
 		<a href="{{ "post/dev/01-the-conflict.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/dev/thumb1.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
