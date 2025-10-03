@@ -109,7 +109,7 @@ style: style2
 	</section>
 	<section>
 		<a href="{{ "post/dev/02-stripe-on-solid.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/dev/thumb2.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
