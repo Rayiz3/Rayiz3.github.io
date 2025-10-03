@@ -46,7 +46,7 @@ style: style2
 	</section>
 	<section>
 		<a href="{{ "post/dev/05-nupzukisfree.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/dev/thumb5.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
