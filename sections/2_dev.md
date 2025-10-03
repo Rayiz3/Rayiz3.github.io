@@ -88,7 +88,7 @@ style: style2
 	</section>
 	<section>
 		<a href="{{ "post/dev/03-pokemon-deck-builder.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/dev/thumb3.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -100,7 +100,7 @@ style: style2
 					<span>#web</span>
 					<span>#dashboard</span>
 				</div>
-				<p>포켓몬의 세계는 심오하지만, 실전 배틀의 세계는 더더욱 심오합니다... 높은 진입장벽 때문에 힘들어하는 초심자들을 위한 포켓몬 팀 빌딩 시뮬레이터입니다. 2024 8월 호놀룰루에서 개최된 포켓몬 월드 챔피언십의 상위 랭커들이 사용했던 포켓몬 팀들의 데이터를 기반으로 이상적인 포켓몬 파티 설정을 추천해줍니다.</p>
+				<p>포켓몬의 세계는 심오하지만, 실전 배틀의 세계는 더더욱 심오합니다... 높은 진입장벽 때문에 힘들어하는 초심자들을 위한 포켓몬 팀 빌딩 시뮬레이터입니다. 2024년 8월 호놀룰루에서 개최된 포켓몬 월드 챔피언십의 상위 랭커들이 사용했던 포켓몬 팀들의 데이터를 기반으로 이상적인 포켓몬 파티 설정을 추천해줍니다.</p>
 				<ul class="actions">
 					<li><a href="{{ "post/dev/03-pokemon-deck-builder.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
