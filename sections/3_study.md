@@ -87,7 +87,7 @@ style: style3
 	</section>
 	<section>
 		<a href="{{ "post/study/01-rosetta-stone.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/study/thumb1.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -95,10 +95,6 @@ style: style3
 					<h3>Rosetta Stone</h3>
 					<p>2020.05 ~ 2020.07</p>
 				</header>
-				<div class="tag">
-					<span>#open-source</span>
-					<span>#RL</span>
-				</div>
 				<p>#open-source  #RL</p>
 				<p>온라인 카드게임 '하스스톤'의 강화 학습 환경 구현을 위해 핵심 카드의 효과와 로직을 개발하고 최적화를 진행하였습니다.</p>
 				<ul class="actions">
