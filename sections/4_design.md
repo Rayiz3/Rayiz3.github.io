@@ -45,7 +45,7 @@ style: style4
 	</section>
 	<section>
 		<a href="{{ "post/design/01-cafedex.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/design/thumb1.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
