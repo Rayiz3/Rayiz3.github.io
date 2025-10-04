@@ -46,7 +46,7 @@ style: style3
 	</section>
 	<section>
 		<a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/study/thumb3.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -60,7 +60,7 @@ style: style3
 				</div>
 				<p>CVPR 2023에서 발표된 논문인 DiffusionRig를 분석하고 개인화된 데이터를 기반으로 하여 finetuning 학습을 수행하였습니다. 2024년 CVML Lab의 가을 개별연구 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/study/04-diffusionrig.html" | absolute_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
