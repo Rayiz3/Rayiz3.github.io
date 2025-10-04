@@ -25,7 +25,7 @@ style: style4
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ "post/design/02-starbucks-pay-tab.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/design/thumb2.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
