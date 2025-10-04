@@ -2,7 +2,7 @@
 title: Craft
 layout: landing
 description: '온전히 상상의 나래를 펼치고, 다른 사람과 나누기도 합니다.'
-image: assets/images/pic07.jpg
+image: assets/images/craft/pic1.png
 nav-menu: true
 order : 6
 style: style6

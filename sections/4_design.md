@@ -2,7 +2,7 @@
 title: Design
 layout: landing
 description: '공학보다 조금 더 감성적이고 직관적인 문제 해결 방법입니다.'
-image: assets/images/pic07.jpg
+image: assets/images/design/pic1.png
 nav-menu: true
 order : 4
 style: style4
