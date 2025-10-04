@@ -4,7 +4,7 @@ subtitle: The Dawnway
 email: jusmint3@gmail.com
 description: 블로그 방문을 환영합니다.<br />
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://thedawnway.com"
 author: "Doun Lee"
 street_address: 대전광역시 유성구 대학로 291
 city: 
