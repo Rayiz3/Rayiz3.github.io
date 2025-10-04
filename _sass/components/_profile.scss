@@ -36,7 +36,22 @@
         }
 
         img {
-            width: 30vw;
+            width: 512px;
             aspect-ratio: 1 / 1;
+        }
+        
+		@include breakpoint(medium) {
+            .inner {
+                display: block;
+            }
+
+			.image {
+				width: 100%;
+			}
+
+			.content {
+				@include padding(4em, 3em);
+				width: 100%;
+			}
         }
     }
