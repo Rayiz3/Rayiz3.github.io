@@ -3,7 +3,7 @@ layout: post
 title: 시퍼런 봄
 description: Lorem ipsum dolor est
 image: assets/images/craft/pic1.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

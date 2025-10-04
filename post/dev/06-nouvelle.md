@@ -3,7 +3,7 @@ layout: post
 title: Nouvelle
 description: Lorem ipsum dolor est
 image: assets/images/dev/pic6.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

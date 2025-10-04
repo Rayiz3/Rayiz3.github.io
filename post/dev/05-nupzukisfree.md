@@ -3,7 +3,7 @@ layout: post
 title: NupzukisFree
 description: Lorem ipsum dolor est
 image: assets/images/dev/pic5.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

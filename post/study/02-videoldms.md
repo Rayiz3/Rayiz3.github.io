@@ -3,7 +3,7 @@ layout: post
 title: Video LDMs
 description: Lorem ipsum dolor est
 image: assets/images/study/pic2.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

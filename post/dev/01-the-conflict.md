@@ -3,7 +3,7 @@ layout: post
 title: The Conflict
 description: Lorem ipsum dolor est
 image: assets/images/dev/pic1.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

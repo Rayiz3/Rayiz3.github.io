@@ -3,7 +3,7 @@ layout: post
 title: DiffusionRig
 description: Lorem ipsum dolor est
 image: assets/images/study/pic3.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Rosetta Stone
 description: Lorem ipsum dolor est
 image: assets/images/study/pic1.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

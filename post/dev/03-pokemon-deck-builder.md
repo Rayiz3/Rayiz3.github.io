@@ -3,7 +3,7 @@ layout: post
 title: Pokémon Deck Builder
 description: Lorem ipsum dolor est
 image: assets/images/dev/pic3.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 

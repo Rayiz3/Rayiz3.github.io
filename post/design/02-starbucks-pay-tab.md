@@ -3,7 +3,7 @@ layout: post
 title: Starkbucks Pay Tab
 description: Lorem ipsum dolor est
 image: assets/images/design/pic2.png
-nav-menu: true
+nav-menu: false
 show_tile: false
 ---
 
