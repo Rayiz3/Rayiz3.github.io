@@ -67,7 +67,7 @@ style: style3
 	</section>
 	<section>
 		<a href="{{ "post/study/02-videoldms.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/study/thumb2.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

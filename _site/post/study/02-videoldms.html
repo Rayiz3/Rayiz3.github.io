@@ -7,7 +7,7 @@
 <html>
 
 <head>
-	<title>Generic | 길을도운나루</title>
+	<title>Video LDMs | 길을도운나루</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -132,7 +132,7 @@
 		    
 		
 		    
-		        <li><a href="http://localhost:4000/post/study/02-videoldms.html">Generic</a></li>
+		        <li><a href="http://localhost:4000/post/study/02-videoldms.html">Video LDMs</a></li>
 		    
 		
 		    
@@ -227,14 +227,25 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Generic</h1>
+			<h1>Video LDMs</h1>
 		</header>
-		<span class="image main"><img src="/assets/images/pic11.jpg" alt="" /></span>
-		<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+		<span class="image main"><img src="/assets/images/study/pic2.png" alt="" /></span>
+		<p><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" /></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<p>이미지 생성 분야는 유의미할 정도로 많은 연구가 진행되었고, 이를 기반으로 한 서비스와 모델 공유 생태계가 활성화될 만큼 안정적으로 자리잡았습니다. 하지만 <strong>영상 생성</strong>의 경우, 2023년 여름 당시에는 막 연구가 시작되었기 때문에 큰 진전을 보이고 있지 않았습니다. 이러한 맥락에서 2023 CVPR에서 발표된 NVIDIA사의 <strong>VideoLDMs</strong>는 적은 계산량으로도 비교적 길고 해상도가 높은 영상을 생성하는 획기적인 모델이었습니다.</p>
 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<p>하지만 <strong>VideoLDMs</strong> 학습 및 추론 코드가 공개되어 있지 않았기 때문에, NCSOFT의 Vision AI Generation 팀에서는 영상 생성 기반 기술을 내재화하기 위해 논문을 기반으로 해당 모델의 코드를 직접 구현하기로 하였습니다.</p>
+
+<p><strong>Video LDMs</strong>의 기본 구조는 기존에 학습되어 있던 Image LDMs T2I(Text-to-Image) 모델에 temporal layer를 추가하여 spatial consistency에 대한 학습 없이 temporal consistency에 대한 학습만 할 수 있도록 한 것입니다. <strong>AnimateDiff</strong>는 이와 유사한 원리를 가진 T2V 모델로, 추론 코드가 공개되어 있기에 해당 코드를 참고하여 Video LDMs의 학습 및 추론 코드를 구현하였습니다.</p>
+
+<p><img src="http://localhost:4000/assets/images/study/2_1.gif" alt="image1" class="post" /></p>
+
+<p>총 3주 동안 관련 연구에 대해 조사하였고, 이를 바탕으로 나머지 3주 동안 VideoLDMs의 코드를 구현하였으며, 구현원리가 올바르게 작동하는지 확인하기 위해 1주동안 시험 학습을 진행하였습니다. 짧은 인턴십 기간으로 인해 아쉽게도 그 결과를 확인하지는 못했으나, 어느정도 유의미한 학습단계를 밝고 있음을 확인하였습니다.</p>
+
+<p>학습과정에서 생성한 일부 샘플 영상들을 <a href="https://github.com/Rayiz3/T2V-model-sample">여기</a>에서 확인할 수 있습니다.</p>
+
 
 	</div>
 </section>
