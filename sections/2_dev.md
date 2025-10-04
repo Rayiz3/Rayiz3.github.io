@@ -25,7 +25,7 @@ style: style2
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ "post/dev/06-nouvelle.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/dev/thumb6.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

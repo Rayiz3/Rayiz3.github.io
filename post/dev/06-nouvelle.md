@@ -1,14 +1,33 @@
 ---
 layout: post
-title: Generic
+title: Nouvelle
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/images/dev/pic6.png
 nav-menu: true
 show_tile: false
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+[*[바로가기]*][link]
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+**Nouvelle**은 여러분의 경력을 3D 웹 사이트인 ‘포트폴리오 홈’로 표현할 수 있게 하는 공유 플랫폼 입니다. 홈에서는 공간 안을 자유롭게 돌아다니며, 소개할 기술 스택과 링크 등을 살펴볼 수 있습니다.
+
+<img src="{{ "assets/images/dev/6_1.png" | absolute_url }}" alt="image6" class="post" />
+
+몇가지의 설정을 입력하면, 미리 설계된 방식대로 포트폴리오 홈을 수정할 수 있습니다. 색상을 설정하거나, 책상에 기술 스택을 나열할 수도 있고, 공유하고 싶은 외부 링크를 게시할 수도 있습니다.
+
+**Nouvelle**은 3d 웹 패키지인 three.js를 활용한 프로젝트입니다. 현재 기본적인 요소만 구현되어 있기에, 외형 요소를 조금씩 추가할 계획입니다.
+
+**Nouvelle**은 지금 바로 접속하여 사용할 수 있습니다. 보다 자세한 설명은 [여기][github] github 저장소를 살펴봐주세요!
+
+[link]: https://nouvellevauge.netlify.app/
+[github]: https://github.com/Rayiz3/Nouvelle_client/blob/main/README.md
