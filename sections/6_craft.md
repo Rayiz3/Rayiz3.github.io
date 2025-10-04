@@ -32,14 +32,14 @@ style: style6
 				</header>
 				<p>일상에 대해 이야기하는 인스타툰을 그리고 있습니다. 비정기 연재!</p>
 				<ul class="actions">
-					<li><a href="{{ "post/craft/02-dawn-2-drawing.html" | absolute_url }}" class="button">더 보기</a></li>
+					<li><a href="https://www.instagram.com/dawn_2_drawing/" class="button">바로 가기</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/craft/thumb1.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -47,7 +47,7 @@ style: style6
 					<h3>시퍼런 봄</h3>
 					<p>2025.07 ~ 2025.07</p>
 				</header>
-				<p>KAIST 구성원들을 위한 전시 공간인 gallery Ori에 한 달간 전시된 작품입니다.</p>
+				<p>KAIST 구성원들을 위한 전시 공간인 gallery ORi에 한 달간 전시된 작품입니다.</p>
 				<ul class="actions">
 					<li><a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="button">더보기</a></li>
 				</ul>
