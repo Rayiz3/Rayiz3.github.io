@@ -2,7 +2,7 @@
 title: Dev
 layout: landing
 description: '웹. 앱. 코드. 사각형 창구에서 만든 여러가지 세계입니다.'
-image: assets/images/pic07.jpg
+image: assets/images/dev/thumb1.png
 nav-menu: true
 order : 2
 style: style2

@@ -2,7 +2,7 @@
 title: Study
 layout: landing
 description: '인공지능은 정말 신비한 분야입니다. 그래서 직접 들여다보기로 했습니다.'
-image: assets/images/pic07.jpg
+image: assets/images/study/thumb2.png
 nav-menu: true
 order : 3
 style: style3

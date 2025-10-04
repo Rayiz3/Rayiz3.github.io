@@ -4,9 +4,9 @@ title: Posts
 landing-title: 'Posts'
 nav-menu: true
 description: '최근 글들을 살펴보세요'
-image: null
+image: assets/images/pic06.jpg
 author: null
-show_tile: false
+show_tile: true
 order: 1
 ---
 
