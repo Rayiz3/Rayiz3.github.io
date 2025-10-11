@@ -12,6 +12,7 @@ img {
 	&.post {
 		display: block;
 		width: 60%;
+		min-width: 400px;
 		height: auto;
 		margin: 0 auto;
 	}

@@ -9,6 +9,11 @@ show_tile: false
 
 <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 
+<a class="button icon" href="https://drive.google.com/file/d/1zR31dsL0WwYHzCvuX1JWIbzrINmeK1E6/view?usp=drive_link">
+  <img src="{{ "assets/images/dev/1_ico.png" | absolute_url }}" alt="icon" class="btn-icon">
+  The Conflict 다운로드
+</a>
+
 **The Conflict**는 2018년 교내 동아리 산출물로서 처음 시작했던 2D 실시간 전략 게임 프로젝트입니다. 여러 전략 게임으로부터 영감을 받았는데, 두 기지를 두고 유닛을 생산해 공방을 펼치는 것은 **카툰워즈 시리즈**에서, 전장을 타일로 배치하여 공격로를 정한 것은 **식물vs좀비 시리즈**에서 아이디어를 가져왔습니다.
 
 <img src="{{ "assets/images/dev/1_1.png" | absolute_url }}" alt="image1" class="post" />
