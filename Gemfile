@@ -7,3 +7,7 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-sitemap'
+gem "sass-embedded", "~> 1.79"
+gem "csv"
+gem "logger"
+gem "base64"

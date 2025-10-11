@@ -7,7 +7,7 @@
 <html>
 
 <head>
-	<title>Generic | 길을도운나루</title>
+	<title>SimFramepack | 길을도운나루</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -191,14 +191,21 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Generic</h1>
+			<h1>SimFramepack</h1>
 		</header>
-		<span class="image main"><img src="/assets/images/pic11.jpg" alt="" /></span>
-		<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.</p>
+		<span class="image main"><img src="/assets/images/study/pic4.gif" alt="" /></span>
+		<p>SimFrampack의 T2V 모델인 <strong>Frampack을 기반으로 한 물리 시뮬레이션 모델</strong>로, KCVL 연구실에서 연구중이었던 주제였습니다. 여름 개별연구 동안 연구활동을 보조하여 코드 구조를 학습하고, 하이퍼파라미터를 조절하며, 여러가지 입력값에 대한 모델의 정성적 성능을 분석해보았습니다.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+<p><img src="http://localhost:4000/assets/images/study/4_1.png" alt="image1" class="post" /></p>
 
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
+<p>현재는 충분히 다양한 종류의 T2V 기반 물리 시뮬레이션 모델이 개발되어왔습니다. 하지만 기존 모델(e.g. Go-with-the-Flow)의 경우 <strong>물체가 가지고 있는 물성 외의 out-of-distribution 결과</strong>를 잘 구현하지 못한다는 단점이 있었습니다. 이를 해결하기 위해 SimFramepack에서는 기존에 전달하던 입력값을 바꾸어 이미지가 프롬프트에서 지시한 동작과 물성을 구현할 수 있도록 하였습니다.</p>
+
+<p><img src="http://localhost:4000/assets/images/study/4_2.png" alt="image1" class="post" /></p>
+
+<p>실험 결과 rescaling factor, shift, inversion step 등 하이퍼파라미터에 따라 결과값에 미치게 되는 영향에 대해 정리하였습니다. 또한 주어진 src video의 motion condition이 명시되어 text prompt를 따르는 극단적인 변화는 보이지 않음을 확인하였습니다.</p>
+
+<p>연구활동에 대한 내용은 <a href="https://docs.google.com/presentation/d/1j4SWEPGlHlNGgFT3w0mpdSJFBbaw0EZcAk6s0j9aJDM/edit?usp=sharing">여기</a> 슬라이드 링크에서 확인할 수 있습니다.</p>
+
 
 	</div>
 </section>

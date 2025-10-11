@@ -25,7 +25,7 @@ style: style3
 <section id="two" class="spotlights">
 	<section>
 		<a href="{{ "post/study/04-simframepack.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/study/thumb4.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -60,7 +60,7 @@ style: style3
 				</div>
 				<p>CVPR 2023에서 발표된 논문인 DiffusionRig를 분석하고 개인화된 데이터를 기반으로 하여 finetuning 학습을 수행하였습니다. 2024년 CVML Lab의 가을 개별연구 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ style: style3
 				</div>
 				<p>CVPR 2023에서 NVIDIA가 발표한 T2V 모델인 VideoLDMs를 분석하고 추론 및 학습 코드를 구현하는 작업을 수행하였습니다. NCSOFT의 여름 인턴십 직무 내용입니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/study/02-videoldms.html" | absolute_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ "post/study/02-videoldms.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
