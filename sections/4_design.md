@@ -38,7 +38,7 @@ style: style4
 				</div>
 				<p>스타벅스 모바일 앱을 사용할 때마다 결제 탭에서 스타벅스 카드를 관리하기가 어려웠습니다. 그 이유를 분석하고, 더 나은 사용자 경험을 제공할 수 있도록 스타벅스 카드 관리를 위한 사용자 인터페이스를 개선해 보았습니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/design/02-starbucks-pay-tab.html" | absolute_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ "post/design/02-starbucks-pay-tab.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
@@ -59,7 +59,7 @@ style: style4
 				</div>
 				<p>수집과 교환은 포켓몬스터를 세계적인 게임 IP로 만들어 준 핵심 요소입니다. 커피에도 적용하면 어떨까요? 지역 카페와 상생 가능한 캡슐 커피 시스템인 Cafédex를 고안하고, 이를 관리할 수 있는 모바일 앱을 디자인하였습니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/design/01-cafedex.html" | absolute_url }}" class="button">Learn more</a></li>
+					<li><a href="{{ "post/design/01-cafedex.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
 			</div>
 		</div>
