@@ -21,7 +21,7 @@ style: style6
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="{{ "post/craft/02-dawn-2-drawing.html" | absolute_url }}" class="image">
+		<a href="https://www.instagram.com/dawn_2_drawing/" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">

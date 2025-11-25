@@ -24,6 +24,23 @@ style: style3
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="https://thedawnway.com/CMajor/" class="image">
+			<img src="{% link assets/images/study/thumb5.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>CMajor</h3>
+					<p>2025.10 ~ </p>
+				</header>
+				<p>자료구조부터 인공지능까지, 컴퓨터 과학에서 접할 수 있는 다양한 분야에 대한 포스트입니다.</p>
+				<ul class="actions">
+					<li><a href="https://thedawnway.com/CMajor/" class="button">바로가기</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="{{ "post/study/04-simframepack.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/study/thumb4.png %}" alt="" data-position="center center" />
 		</a>
