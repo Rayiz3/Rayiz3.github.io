@@ -2,7 +2,7 @@
 title: Craft
 layout: landing
 description: '온전히 상상의 나래를 펼치고, 다른 사람과 나누기도 합니다.'
-image: assets/images/craft/pic1.png
+image: assets/images/craft/pic2.png
 nav-menu: true
 order : 6
 style: style6
@@ -38,8 +38,8 @@ style: style6
 		</div>
 	</section>
 	<section>
-		<a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="image">
-			<img src="{% link assets/images/craft/thumb1.png %}" alt="" data-position="top center" />
+		<a href="{{ "post/craft/02-blue-spring.html" | absolute_url }}" class="image">
+			<img src="{% link assets/images/craft/thumb2.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -49,7 +49,24 @@ style: style6
 				</header>
 				<p>KAIST 구성원들을 위한 전시 공간인 gallery ORi에 한 달간 전시된 작품입니다.</p>
 				<ul class="actions">
-					<li><a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="button">더보기</a></li>
+					<li><a href="{{ "post/craft/02-blue-spring.html" | absolute_url }}" class="button">더보기</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="image">
+			<img src="{% link assets/images/craft/thumb1.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>휴먼 시정체</h3>
+					<p>2017.10 ~ 2018.02</p>
+				</header>
+				<p>Fontcreator로 제작한 흘림이 있는 손글씨 폰트입니다.</p>
+				<ul class="actions">
+					<li><a href="{{ "post/craft/01-human-sijung.html" | absolute_url }}" class="button">더보기</a></li>
 				</ul>
 			</div>
 		</div>
