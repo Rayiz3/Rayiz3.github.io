@@ -7,7 +7,7 @@ nav-menu: false
 show_tile: false
 ---
 
-SimFrampack의 T2V 모델인 **Frampack을 기반으로 한 물리 시뮬레이션 모델**로, KCVL 연구실에서 연구중이었던 주제였습니다. 여름 개별연구 동안 연구활동을 보조하여 코드 구조를 학습하고, 하이퍼파라미터를 조절하며, 여러가지 입력값에 대한 모델의 정성적 성능을 분석해보았습니다.
+SimFramepack의 T2V 모델인 **Framepack을 기반으로 한 물리 시뮬레이션 모델**로, KCVL 연구실에서 연구중이었던 주제였습니다. 여름 개별연구 동안 연구활동을 보조하여 코드 구조를 학습하고, 하이퍼파라미터를 조절하며, 여러가지 입력값에 대한 모델의 정성적 성능을 분석해보았습니다.
 
 <img src="{{ "assets/images/study/4_1.png" | absolute_url }}" alt="image1" class="post" />
 
