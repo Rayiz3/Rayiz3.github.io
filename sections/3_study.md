@@ -54,7 +54,7 @@ style: style3
 					<span>#T2V</span>
 					<span>#simulation</span>
 				</div>
-				<p>Frampack 기반의 T2V 물리 시뮬레이션 모델인 SimFrampack의 연구를 보조하고, 모델의 정성적 성능을 분석해보았습니다. 2025년 CVML Lab의 여름 개별연구 내용입니다.</p>
+				<p>Frampack 기반의 T2V 물리 시뮬레이션 모델인 SimFrampack의 연구를 보조하고, 모델의 정성적 성능을 분석해보았습니다. 2025년 KCVL Lab의 여름 개별연구 내용입니다.</p>
 				<ul class="actions">
 					<li><a href="{{ "post/study/04-simframepack.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
@@ -75,7 +75,7 @@ style: style3
 					<span>#T2I</span>
 					<span>#human-face</span>
 				</div>
-				<p>CVPR 2023에서 발표된 논문인 DiffusionRig를 분석하고 개인화된 데이터를 기반으로 하여 finetuning 학습을 수행하였습니다. 2024년 CVML Lab의 가을 개별연구 내용입니다.</p>
+				<p>CVPR 2023에서 발표된 논문인 DiffusionRig를 분석하고 개인화된 데이터를 기반으로 하여 finetuning 학습을 수행하였습니다. 2024년 KCVL Lab의 가을 개별연구 내용입니다.</p>
 				<ul class="actions">
 					<li><a href="{{ "post/study/03-diffusionrig.html" | absolute_url }}" class="button">더 보기</a></li>
 				</ul>
