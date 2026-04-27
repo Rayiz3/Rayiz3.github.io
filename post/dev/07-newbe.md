@@ -17,6 +17,10 @@ show_tile: false
 <img src="https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/fly.io-24175B?style=for-the-badge&logo=flydotio&logoColor=white">
 
+<a class="button icon" href="https://drive.google.com/file/d/1Ig2ppaNAxLMQni4UzTFlbaOO5yd2qoOi/view?usp=sharing">
+  <img src="{{ "assets/images/dev/7_ico.png" | absolute_url }}" alt="icon" class="btn-icon">
+  뉴비(NewBe) 데모버전 다운로드
+</a>
 
 **NewBe**는 매일 마다 새로운 **뉴스 정보를 다양한 캐릭터가 요약**해주는 모바일 뉴스 요약 앱입니다. 매일 수집된 뉴스를 단순히 나열하는 대신, 요약된 이야기를 통해 핵심을 빠르게 이해할 수 있습니다.
 
@@ -32,6 +36,6 @@ show_tile: false
 
 외부 api를 통해 뉴스를 수집하고 요약하는 일련의 과정은 **LangGraph**를 사용하여 구현하였습니다. 현재는 간단한 선형 워크플로우를 가지고 있으나, 추후 시스템을 고도화하면서 동시 실행이나 피드백 등 복잡한 분기 제어를 수월하게 하기 위함입니다.
 
-**NewBe**는 지속적으로 개발 중에 있습니다. 코드 전문은 [여기][github] github 저장소를 살펴봐주세요!
+**NewBe**는 지속적으로 개발 중에 있습니다. 위 사진을 보다시피, 아직 모든 뉴비들에 대한 이미지 에셋이 완성되지 않았기 때문입니다. 따라서 현재는 플레이 스토어에 배포되어 있지않고, 데모 파일만 받아볼 수 있습니다. 코드 전문은 [여기][github] github 저장소를 살펴봐주세요!
 
 [github]: https://github.com/Rayiz3/NewBe
