@@ -24,6 +24,27 @@ style: style2
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="{{ "post/dev/07-newbe.html" | absolute_url }}" class="image">
+			<img src="{% link assets/images/dev/thumb7.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>NewBe</h3>
+					<p>2026.04 ~ </p>
+				</header>
+				<div class="tag">
+					<span>#mobile</span>
+					<span>#LLM #LangGraph</span>
+				</div>
+				<p>매일마다 뉴비들을 통해 새로운 소식을 받아보세요! LLM 기반 워크플로우로 구성된 다양한 캐릭터가 뉴스 정보를 요약해주는 모바일 뉴스 요약 앱입니다.</p>
+				<ul class="actions">
+					<li><a href="{{ "post/dev/07-newbe.html" | absolute_url }}" class="button">더 보기</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="{{ "post/dev/06-nouvelle.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/dev/thumb6.png %}" alt="" data-position="center center" />
 		</a>
