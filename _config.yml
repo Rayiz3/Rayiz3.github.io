@@ -6,10 +6,10 @@ description: 블로그 방문을 환영합니다.<br />
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thedawnway.com"
 author: "Doun Lee"
-street_address: 대전광역시 유성구 대학로 291
+street_address: 서울시 송파구 중대로 135
 city: 
 state: 
-zip_code: 34141
+zip_code: 05717
 country: Korea, Republic of
 phone: (+82) 010-4540-8799
 lang: kr
