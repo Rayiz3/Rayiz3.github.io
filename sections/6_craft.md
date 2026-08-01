@@ -21,23 +21,6 @@ style: style6
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.instagram.com/dawn_2_drawing/" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Dawn_2_Drawing</h3>
-					<p>2022.11 ~ </p>
-				</header>
-				<p>일상에 대해 이야기하는 인스타툰을 그리고 있습니다. 비정기 연재!</p>
-				<ul class="actions">
-					<li><a href="https://www.instagram.com/dawn_2_drawing/" class="button">바로 가기</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
 		<a href="{{ "post/craft/02-blue-spring.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/craft/thumb2.png %}" alt="" data-position="top center" />
 		</a>
@@ -55,7 +38,7 @@ style: style6
 		</div>
 	</section>
 	<section>
-		<a href="{{ "post/craft/01-blue-spring.html" | absolute_url }}" class="image">
+		<a href="{{ "post/craft/01-human-sijung.html" | absolute_url }}" class="image">
 			<img src="{% link assets/images/craft/thumb1.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
