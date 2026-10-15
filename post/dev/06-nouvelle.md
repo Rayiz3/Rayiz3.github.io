@@ -21,13 +21,11 @@ show_tile: false
   Nouvelle 바로가기
 </a>
 
-**Nouvelle**은 여러분의 경력을 3D 웹 사이트인 ‘포트폴리오 홈’로 표현할 수 있게 하는 공유 플랫폼 입니다. 홈에서는 공간 안을 자유롭게 돌아다니며, 소개할 기술 스택과 링크 등을 살펴볼 수 있습니다.
+**Nouvelle**은 여러분의 경력을 3D 웹 사이트인 '포트폴리오 홈'로 표현할 수 있게 하는 공유 플랫폼 입니다. 홈에서는 공간 안을 자유롭게 돌아다니며, 소개할 기술 스택과 링크 등을 살펴볼 수 있습니다.
 
 <img src="{{ "assets/images/dev/6_1.png" | absolute_url }}" alt="image1" class="post" />
 
 몇가지의 설정을 입력하면, 미리 설계된 방식대로 포트폴리오 홈을 수정할 수 있습니다. 색상을 설정하거나, 책상에 기술 스택을 나열할 수도 있고, 공유하고 싶은 외부 링크를 게시할 수도 있습니다.
-
-**Nouvelle**은 3d 웹 패키지인 three.js를 활용한 프로젝트입니다. 현재 기본적인 요소만 구현되어 있기에, 외형 요소를 조금씩 추가할 계획입니다.
 
 ### - 2026.01.03. -
 
@@ -35,6 +33,6 @@ show_tile: false
 
 <img src="{{ "assets/images/dev/6_2.png" | absolute_url }}" alt="image2" class="post" />
 
-**Nouvelle**은 지금 바로 접속하여 사용할 수 있습니다. 보다 자세한 설명은 [여기][github] github 저장소를 살펴봐주세요!
+**Nouvelle**에 대한 자세한 설명은 [여기][github] github 저장소를 살펴봐주세요!
 
 [github]: https://github.com/Rayiz3/Nouvelle_client/blob/main/README.md

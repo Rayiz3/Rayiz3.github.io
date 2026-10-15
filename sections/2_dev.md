@@ -52,7 +52,7 @@ style: style2
 			<div class="inner">
 				<header class="major">
 					<h3>Nouvelle</h3>
-					<p>2025.01 ~ </p>
+					<p>2025.01 ~ 2025.10</p>
 				</header>
 				<div class="tag">
 					<span>#web</span>
